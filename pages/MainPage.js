@@ -50,7 +50,6 @@ export default function MainPage({navigation,route}) {
         }
     }
 
-
 	let todayWeather = 10 + 17;
     let todayCondition = "흐림"
 
@@ -196,6 +195,5 @@ weather:{
     textAlign:"center",
     marginTop:10
   }
-
 
 });
